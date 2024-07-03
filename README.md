@@ -1,10 +1,6 @@
 # Flood Game
 Welcome to the Flood game! This README will guide you through the installation, setup, and gameplay of Flood.
 
-## Table of Contents
--Introduction
--How to Play
--Contributing  
 ### Introduction  
 Flood is a simple strategy game. The objective is to fill the entire board with a single color in the fewest number of moves possible.
 
