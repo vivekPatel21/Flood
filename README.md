@@ -1,17 +1,11 @@
-# Flood Game 🪣
-Welcome to the Flood game! This README will guide you through the installation, setup, and gameplay of Flood.
+FloodIt! Student Support Code
 
-### Introduction  
-Flood is a simple strategy game. The objective is to fill the entire board with a single color in the fewest number of moves possible.
+Revision: Fall 2023
 
-### How to Play 
-## Objective: 
-The goal is to flood the entire board with a single color in as few moves as possible.  
-
-## Controls🎮:  
-
-Click on a color to flood the connected area starting from the top-left corner with that color. Continue selecting colors to expand the flooded area. The game ends when the entire board is filled with a single color.  
-
-## Strategy:
-
-Try to think ahead and plan your moves to minimize the number of clicks required. Pay attention to the current spread of colors to optimize your choices.
+1.) from the graph we can say that the code is roughly f(x^2). ie. f(x) =x^2
+2.) From the code that is written we can say that it is O(n^2).
+3.) The analysis of the code does match up with the graph, as n^2 + n^2 is still just n^2.
+4.) We used Linked list and 2-d arrays, I think that based on what we have the time complexity is
+ as good as we can do, because of the nature of the 2D array to find the specific tiles.
+ 5.) The time complexity of the alternate code that I made is about O(n^2). Which would be the same as
+    my first implementation.
